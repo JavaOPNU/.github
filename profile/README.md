@@ -17,7 +17,8 @@ github: [@MykolaHodovychenko](https://github.com/MykolaHodovychenko)
 
 ## Телеграм-канал дисципліни
 
-Посилання на телеграм-канал - [посилання](https://t.me/+7s4dzdiMHBhjMjRi)
+Посилання на телеграм-канал (потік АІ) - [посилання](https://t.me/+ce2JMEfNX5RhMWEy)
+Посилання на телеграм-канал (потік УП + ММ) - [посилання](https://t.me/+RB-G1nPdyb5jNzQy)
 
 ## Помилки, неточності перекладу і невідформатований текст
 
